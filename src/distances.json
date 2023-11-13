@@ -1,0 +1,44 @@
+{
+  "mountEverest": {
+    "name": "Mount Everest",
+    "meters": 8848,
+    "feet": 29029,
+    "miles": 5.497
+  },
+  "marathon": {
+    "name": "Marathon",
+    "meters": 42195,
+    "feet": 138435,
+    "miles": 26.219
+  },
+  "kilometer": {
+    "name": "Kilometer",
+    "meters": 1000,
+    "feet": 3281,
+    "miles": 0.621
+  },
+  "mile": {
+    "name": "Mile",
+    "meters": 1609,
+    "feet": 5280,
+    "miles": 1
+  },
+  "routeSixtySix": {
+    "name": "Route 66",
+    "meters": 3941147,
+    "feet": 12925440,
+    "miles": 2448
+  },
+  "usa": {
+    "name": "USA",
+    "meters": 4797547,
+    "feet": 15754960,
+    "miles": 2982
+  },
+  "marianaTrench": {
+    "name": "Mariana Trench",
+    "meters": 11000,
+    "feet": 36089,
+    "miles": 6.831
+  }
+}
